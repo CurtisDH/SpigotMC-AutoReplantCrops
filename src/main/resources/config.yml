@@ -1,0 +1,28 @@
+settings:
+  blocks:
+    WHEAT:
+      autoReplant: true
+      hoeRequired: true
+    CARROTS:
+      autoReplant: true
+      hoeRequired: true
+    POTATOES:
+      autoReplant: true
+      hoeRequired: true
+    BEETROOTS:
+      autoReplant: true
+      hoeRequired: true
+    NETHER_WART:
+      autoReplant: true
+      hoeRequired: true
+  tools:
+    WOODEN_HOE:
+      valid: true
+    STONE_HOE:
+      valid: true
+    IRON_HOE:
+      valid: true
+    DIAMOND_HOE:
+      valid: true
+    NETHERITE_HOE:
+      valid: true

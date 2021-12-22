@@ -1,0 +1,10 @@
+name: AutoReplant
+version: '${project.version}'
+main: github.curtisdh.autoreplant.AutoReplant
+api-version: 1.18
+description: Automatically replants crops when broken with a hoe
+commands:
+  reloadConfig:
+    description: Reloads the config file for 'AutoReplant'
+    usage: /reloadConfig
+    aliases: rcfg
